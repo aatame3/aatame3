@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 自己紹介
+<p>好きなもの<br>
+  例のアレ,html,Redhat,ヒカマニ,ゲーム</p>
+  <p>嫌いなもの<br>
+  お前,Facebook,LINE</p>
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
