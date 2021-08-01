@@ -5,6 +5,8 @@
   お前 Facebook LINE</p>
   <p>書いてるコードほぼコピペ<br>
   google検索が友達！！</p>
+  
+  <a href="https://rtx3070kure.net/aatame3_0x68ADE4B9_public.asc" download="">PGP</a>
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
