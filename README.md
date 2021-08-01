@@ -3,6 +3,8 @@
   例のアレ html Redhat ヒカマニ ゲーム</p>
   <p>嫌いなもの<br>
   お前 Facebook LINE</p>
+  <p>書いてるコードほぼコピペ<br>
+  google検索が友達！！</p>
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
