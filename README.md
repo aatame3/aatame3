@@ -6,7 +6,7 @@
   <p>書いてるコードほぼコピペ<br>
   google検索が友達！！</p>
   
-  <a href="https://rtx3070kure.net/aatame_0x2CCC4F77_public.asc" download="">PGP</a>
+  <a href="https://rtx3070kure.net/aatame3.asc" download="">PGP</a>
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
