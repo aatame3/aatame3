@@ -1,8 +1,5 @@
-<p>溜まっていくウィッシュリスト<br>
-貯まらない金<br>
-飽きてくるゲーム</p>
+<p>くそ</p>
   
-
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
