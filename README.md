@@ -1,5 +1,4 @@
 <p>カスオタク野郎</p>
-![IQ](https://img.shields.io/badge/IQ-Low-red)
   
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
