@@ -1,4 +1,4 @@
-<p>くそ</p>
+<p>えーあっとあめってよんでもらうつもりがああためになっちまった</p>
   
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
