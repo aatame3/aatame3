@@ -1,5 +1,5 @@
-<p>えーあっとあめってよんでもらうつもりがああためになっちまった<br>
-カスオタク野郎なのでニチャニチャ知ったかぶってます　たすけて</p>
+<p>カスオタク野郎</p>
+![Brain](https://img.shields.io/badge/Brain%20Power%20On%20Self%20Test-failure-red)
   
 <!--
 **aatame3/aatame3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
