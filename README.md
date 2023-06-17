@@ -1,2 +1,4 @@
-<h1>Oops! An error occurred.</h1>
-Access denied because you are too creepy nerd.
+<h1>キモ・オタク</h1>
+キモオタクです、オタクのくせに書ける言語がほぼありません。
+VRChatでかわいいアバターを着てるタイプのオタクです
+<img src=https://aatame3.net/ogp.jpg>
