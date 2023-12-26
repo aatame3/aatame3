@@ -1,5 +1,6 @@
 # キモ・オタク
 キモ・オタクです、オタクのくせに書ける言語がほぼありません。<br>
+HTMLは`<p>`しか覚えてません。<br>
 グミとカメラとカフェインとかわいいアバターを着たオタクとオレオを愛してます<br>
 Twitter:@aatame3<br>
 PublicKey:<a href="https://aatame3.net/PGP/aatame3.asc">2970 D4FC D600 FF0A</a><br>
